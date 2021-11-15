@@ -3,7 +3,10 @@ pip>=9
 setuptools>=26
 twine
 wheel>=0.29
-
+# lewagon_buddies_packages
+git+https://github.com/dorien-er/drn_rsn
+git+https://github.com/davydw/ilovekebab
+git+https://github.com/natalykoch/fancy
 # data science
 numpy
 pandas
